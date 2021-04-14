@@ -19,9 +19,9 @@
   </a>
 </p>
 
-<span align="center">
+<p align="center">
   www.mariosaul.com
-</span>
+</p>
 
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
