@@ -20,7 +20,13 @@
 </p>
 
 <p align="center">
+  <a href="https://www.mariosaul.com">
+    <img src="https://cdn.icon-icons.com/icons2/206/PNG/256/Retro_Mario_24707.png" width = 50px/>
+  </a>
   www.mariosaul.com
+  <a href="https://www.mariosaul.com">
+    <img src="https://cdn.icon-icons.com/icons2/206/PNG/256/Retro_Mario_24707.png" width = 50px/>
+  </a>
 </p>
 
 
