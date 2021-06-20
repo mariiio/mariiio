@@ -1,5 +1,5 @@
 
-![banner](https://user-images.githubusercontent.com/14424870/122540459-569c7080-d031-11eb-9b14-3845819f0051.png)
+[![banner](https://user-images.githubusercontent.com/14424870/122540459-569c7080-d031-11eb-9b14-3845819f0051.png)](#)
 
 <p align="center">
   <a href="https://twitter.com/mario_saul">
@@ -28,9 +28,9 @@ I'm Mario, a Uruguayan Software Engineer living in Israel.
 Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`_ years of experience.
 
 ## 🛠 My Github Stats
-![Mario's github stats](https://github-readme-stats.vercel.app/api?username=mariiio&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiio&layout=compact)](https://github.com/mariiio/github-readme-stats)
-![Mario's github stats](https://github-readme-stats.vercel.app/api?username=mariiio-imgn&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true)
+[![Mario's github stats](https://github-readme-stats.vercel.app/api?username=mariiio&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiio&layout=compact)](https://github.com/mariiio?tab=repositories)
+[![Mario's github stats](https://github-readme-stats.vercel.app/api?username=mariiio-imgn&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true)](#)
 
 ## 👨🏽‍💻 Latest Project
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mariiio&repo=linkedin_connect&show_owner=true)](https://github.com/mariiio/linkedin_connect)
