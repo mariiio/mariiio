@@ -30,7 +30,6 @@ Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`
 ## 🛠 My Github Stats
 [![Mario's github stats](https://github-readme-stats.vercel.app/api?username=mariiio&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiio&layout=compact)](https://github.com/mariiio?tab=repositories)
-[![Mario's github stats](https://github-readme-stats.vercel.app/api?username=mariiio-imgn&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true)](#)
 
 ## 👨🏽‍💻 Latest Project
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mariiio&repo=linkedin_connect&show_owner=true)](https://github.com/mariiio/linkedin_connect)
