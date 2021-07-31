@@ -19,7 +19,7 @@
   </a>
 
   <a href="https://www.instagram.com/mario_saul/">
-    <img src="https://www.hypebot.com/wp-content/uploads/2019/11/instagram.jpg" width = 50px/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" width = 50px/>
   </a>
 </p>
 
