@@ -25,7 +25,6 @@
 
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 I'm Mario, a Uruguayan Software Engineer living in Israel.
-Passionate Full Stack Web Developer with _\`${new Date().getFullYear() - 2016}\`_ years of experience.
 
 ## 🛠 My Github Stats
 [![Mario's github stats](https://github-readme-stats.vercel.app/api?username=mariiio&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true)](#)
