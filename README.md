@@ -30,5 +30,6 @@ I'm Mario, a Uruguayan Software Engineer living in Israel.
 [![Mario's github stats](https://github-readme-stats.vercel.app/api?username=mariiio&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiio&layout=compact)](https://github.com/mariiio?tab=repositories)
 
-## 👨🏽‍💻 Latest Project
+## 👨🏽‍💻 Latest Projects
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mariiio&repo=mariosaul.com&show_owner=true)](https://github.com/mariiio/mariosaul.com)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mariiio&repo=linkedin_connect&show_owner=true)](https://github.com/mariiio/linkedin_connect)
