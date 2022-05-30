@@ -11,7 +11,7 @@
   </a>
 
   <a href="https://www.mariosaul.com">
-    <img src="https://cdn.icon-icons.com/icons2/206/PNG/256/Retro_Mario_24707.png" width = 50px/>
+    <img src="https://www.pngkey.com/png/full/169-1691544_mario-8-bit-pixel-art-paladone-super-mario.png" width = 50px/>
   </a>
 
   <a href="https://www.linkedin.com/in/mario-saul/">
