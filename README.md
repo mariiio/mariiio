@@ -26,7 +26,7 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 I'm Mario, a Uruguayan Software Engineer living in Israel.
 
-## 🛠 Github Stats
+## 📊 Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariiio&layout=compact)](https://github.com/mariiio?tab=repositories)
 
 ## 👨🏽‍💻 Latest Projects
