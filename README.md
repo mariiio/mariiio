@@ -15,7 +15,7 @@
   </a>
 
   <a href="https://www.linkedin.com/in/mario-saul/">
-    <img src="https://inter-dev.co.il/wp-content/uploads/2018/11/linkedin.png" width = 50px/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width = 50px/>
   </a>
 
   <a href="https://www.instagram.com/mario_saul/">
